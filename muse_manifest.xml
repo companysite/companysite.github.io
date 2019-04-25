@@ -1,0 +1,220 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.utyi.com" resolutions="1x" timestamp="1556211986208">
+  <folder name="css">
+    <file name="site_global.css" crc="4117054403"/>
+    <file name="index.css" crc="68143549" ref="index"/>
+    <file name="_________.css" crc="447028752" ref="продукция"/>
+    <file name="____________.css" crc="1214895" ref="производство"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:производство:продукция"/>
+    <file name="museutils.js" crc="340535759" ref="index:производство:продукция"/>
+    <file name="whatinput.js" crc="86476730" ref="index:производство:продукция"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:производство:продукция"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:производство:продукция"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:производство:продукция"/>
+    <file name="webpro.js" crc="4059564322" ref="index:производство:продукция"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:продукция"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:продукция"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:продукция"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:производство:продукция"/>
+    <file name="require.js" crc="7928878" ref="index:производство:продукция"/>
+    <file name="form_check.php" crc="4020933626" ref="производство"/>
+    <file name="form_throttle.php" crc="4259590256" ref="производство"/>
+    <file name="form_process.php" crc="37464564" ref="производство"/>
+    <file name="form-u2063.php" crc="3866650460" ref="производство"/>
+  </folder>
+  <folder name="images">
+    <file name="656565656.png" crc="3846615408" seo="true" ref="index:производство:продукция">
+      <caption webpage="index" alt=""/>
+      <caption webpage="производство" alt=""/>
+      <caption webpage="продукция" alt=""/>
+    </file>
+    <file name="u368-4.png" crc="414157618" ref="index"/>
+    <file name="u392-4.png" crc="55442448" ref="index"/>
+    <file name="u416-4.png" crc="4066317017" ref="index"/>
+    <file name="u677-7.png" crc="476439189" ref="index"/>
+    <file name="phone-icon-png-white-7.png" crc="288609442" seo="true" ref="index:производство:продукция">
+      <caption webpage="index" alt=""/>
+      <caption webpage="производство" alt=""/>
+      <caption webpage="продукция" alt=""/>
+    </file>
+    <file name="u297-4.png" crc="4031031294" ref="index"/>
+    <file name="u343-4.png" crc="94017316" ref="index"/>
+    <file name="u827-4.png" crc="13215482" ref="index"/>
+    <file name="za-dodavanje-teksta.jpg" crc="3851250555" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:производство"/>
+    <file name="history-header.jpg" crc="3906118319" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2487-14.png" crc="59587079" ref="index"/>
+    <file name="u2514-14.png" crc="352104787" ref="index"/>
+    <file name="u2429-4.png" crc="253061213" ref="index"/>
+    <file name="u2427-4.png" crc="491516965" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:продукция"/>
+    <file name="jiwani4-crop-u2569.jpg" crc="3950013564" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2535-4.png" crc="341838338" ref="index"/>
+    <file name="u2538-6.png" crc="3885284045" ref="index"/>
+    <file name="u2579-4.png" crc="3966100955" ref="index"/>
+    <file name="u2583-4.png" crc="3981944938" ref="index"/>
+    <file name="construction-new-bg-1-crop-u2600.jpg" crc="4113729732" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="construction-new-bg-1-crop-u2590.jpg" crc="4113729732" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u818-4.png" crc="4014461854" ref="index"/>
+    <file name="proizvodstvo-gazobeton-2-crop-u831.jpg" crc="4290272725" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u821-7.png" crc="426593973" ref="index"/>
+    <file name="строительство-из-газобетонных-блоков-2.jpg" crc="3929167931" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u871-7.png" crc="3833264171" ref="index"/>
+    <file name="u2369-4.png" crc="4262203980" ref="index"/>
+    <file name="slider1-crop-u2607.jpg" crc="3867934807" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2617-6.png" crc="136293536" ref="index"/>
+    <file name="u2620-5.png" crc="4089693838" ref="index"/>
+    <file name="construction-new-bg-1-crop-u2623.jpg" crc="4113729732" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2639-18.png" crc="168396471" ref="index"/>
+    <file name="u2749-4.png" crc="3953210772" ref="index"/>
+    <file name="23194461.png" crc="362905003" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2766-4.png" crc="4149517021" ref="index"/>
+    <file name="u2767-4.png" crc="224849480" ref="index"/>
+    <file name="construction-new-bg-1-crop-u2772.jpg" crc="4166539240" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2793.png" crc="4235557924" ref="index"/>
+    <file name="u2793-a.png" crc="4235557924" ref="index"/>
+    <file name="u2788.png" crc="3782571777" ref="index"/>
+    <file name="u2788-a.png" crc="3782571777" ref="index"/>
+    <file name="u2783.png" crc="3907704317" ref="index"/>
+    <file name="u2783-a.png" crc="3907704317" ref="index"/>
+    <file name="u2798-8.png" crc="482709030" ref="index"/>
+    <file name="project-management.png" crc="4045943920" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2804-4.png" crc="328041908" ref="index"/>
+    <file name="trophy.png" crc="4010407940" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2802-8.png" crc="3995852369" ref="index"/>
+    <file name="sketch.png" crc="4122253037" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1043-4.png" crc="414157618" ref="производство"/>
+    <file name="u1054-4.png" crc="55442448" ref="производство"/>
+    <file name="u1003-4.png" crc="4066317017" ref="производство"/>
+    <file name="u1024-6.png" crc="124777826" ref="производство"/>
+    <file name="u1036-4.png" crc="4031031294" ref="производство"/>
+    <file name="u1017-4.png" crc="94017316" ref="производство"/>
+    <file name="u1007-4.png" crc="4274516144" ref="производство"/>
+    <file name="u1657-4.png" crc="4056813129" ref="производство"/>
+    <file name="idea.png" crc="4294420179" seo="true" ref="производство">
+      <caption webpage="производство" alt=""/>
+    </file>
+    <file name="pay-per-click.png" crc="364671801" seo="true" ref="производство">
+      <caption webpage="производство" alt=""/>
+    </file>
+    <file name="hourglass.png" crc="4203137242" seo="true" ref="производство">
+      <caption webpage="производство" alt=""/>
+    </file>
+    <file name="u1661-4.png" crc="4257943799" ref="производство"/>
+    <file name="u1667-4.png" crc="59203869" ref="производство"/>
+    <file name="u1673-4.png" crc="4122538800" ref="производство"/>
+    <file name="u1676-4.png" crc="4155143869" ref="производство"/>
+    <file name="u1679-4.png" crc="34043474" ref="производство"/>
+    <file name="u1682-4.png" crc="474852663" ref="производство"/>
+    <file name="u2060-4.png" crc="326590226" ref="производство"/>
+    <file name="u997-7.png" crc="272800479" ref="производство"/>
+    <file name="ingener.png" crc="234076165" seo="true" ref="производство">
+      <caption webpage="производство" alt=""/>
+    </file>
+    <file name="u2527-4.png" crc="4276743245" ref="производство"/>
+    <file name="26424-crop-u2653.jpg" crc="4096840636" seo="true" ref="производство">
+      <caption webpage="производство" alt=""/>
+    </file>
+    <file name="u2663-4.png" crc="4127039326" ref="производство"/>
+    <file name="u2666-4.png" crc="3927845944" ref="производство"/>
+    <file name="u2669-4.png" crc="3997011285" ref="производство"/>
+    <file name="u2672-4.png" crc="4196672727" ref="производство"/>
+    <file name="u2675-4.png" crc="333685666" ref="производство"/>
+    <file name="u2678-4.png" crc="514833071" ref="производство"/>
+    <file name="u2681-4.png" crc="4253302349" ref="производство"/>
+    <file name="sl03.jpg" crc="4191730624" seo="true" ref="производство">
+      <caption webpage="производство" alt=""/>
+    </file>
+    <file name="u2077.png" crc="75827317" ref="производство"/>
+    <file name="u2077-ferr.png" crc="4223008981" ref="производство"/>
+    <file name="u2068.png" crc="202631004" ref="производство"/>
+    <file name="u2068-ferr.png" crc="4294794452" ref="производство"/>
+    <file name="u2065.png" crc="4204428685" ref="производство"/>
+    <file name="u2065-r.png" crc="48692942" ref="производство"/>
+    <file name="u2065-m.png" crc="4246932000" ref="производство"/>
+    <file name="u2065-fs.png" crc="3959311054" ref="производство"/>
+    <file name="u2073.png" crc="3910261942" ref="производство"/>
+    <file name="u2073-ferr.png" crc="4214814913" ref="производство"/>
+    <file name="u2128-4.png" crc="4115277967" ref="производство"/>
+    <file name="u3025-4.png" crc="4056353483" ref="производство"/>
+    <file name="u3030-4.png" crc="3766785001" ref="производство"/>
+    <file name="u3033-4.png" crc="404137718" ref="производство"/>
+    <file name="u1170-4.png" crc="414157618" ref="продукция"/>
+    <file name="u1157-4.png" crc="55442448" ref="продукция"/>
+    <file name="u1182-4.png" crc="4066317017" ref="продукция"/>
+    <file name="u1177-4.png" crc="4031031294" ref="продукция"/>
+    <file name="u1151-4.png" crc="94017316" ref="продукция"/>
+    <file name="u1122-6.png" crc="4007819330" ref="продукция"/>
+    <file name="stroitelstvo-crop-u2997.jpg" crc="3925365755" seo="true" ref="продукция">
+      <caption webpage="продукция" alt=""/>
+    </file>
+    <file name="u3008-4.png" crc="52542072" ref="продукция"/>
+    <file name="u3016-4.png" crc="3966100955" ref="продукция"/>
+    <file name="u3017-4.png" crc="3981944938" ref="продукция"/>
+    <file name="u1134-8.png" crc="494061937" ref="продукция"/>
+    <file name="u1143-4.png" crc="494215254" ref="продукция"/>
+    <file name="u1125-4.png" crc="4289457471" ref="продукция"/>
+    <file name="u1140-4.png" crc="13215482" ref="продукция"/>
+    <file name="u1144-8.png" crc="474091604" ref="продукция"/>
+    <file name="94514957dbb534506b0653408213.jpg" crc="22912146" seo="true" ref="продукция">
+      <caption webpage="продукция" alt=""/>
+    </file>
+    <file name="u1695-4.png" crc="3758942385" ref="продукция"/>
+    <file name="u2157-4.png" crc="4282531124" ref="продукция"/>
+    <file name="u2152-4.png" crc="3769414126" ref="продукция"/>
+    <file name="u2162-5.png" crc="451016959" ref="продукция"/>
+    <file name="u2283-9.png" crc="420445437" ref="продукция"/>
+    <file name="u2289-9.png" crc="3929223223" ref="продукция"/>
+    <file name="878.png" crc="123721430" seo="true" ref="продукция">
+      <caption webpage="продукция" alt=""/>
+    </file>
+    <file name="u2400-4.png" crc="3791777324" ref="продукция"/>
+    <file name="tileform graphite 1 small.png" crc="361772767" seo="true" ref="продукция">
+      <caption webpage="продукция" alt=""/>
+    </file>
+    <file name="u2704-6.png" crc="150749701" ref="продукция"/>
+    <file name="u2696-9.png" crc="3932040631" ref="продукция"/>
+    <file name="u2697-9.png" crc="514851839" ref="продукция"/>
+    <file name="u2695-8.png" crc="4108228371" ref="продукция"/>
+    <file name="u2939-6.png" crc="3991738692" ref="продукция"/>
+    <file name="4f5210ce-67d4-484c-801d-ef396a52e894_image_large.jpg" crc="257565923" seo="true" ref="продукция">
+      <caption webpage="продукция" alt=""/>
+    </file>
+    <file name="u2925-9.png" crc="420445437" ref="продукция"/>
+    <file name="u2926-9.png" crc="3929223223" ref="продукция"/>
+    <file name="u2924-8.png" crc="474091604" ref="продукция"/>
+  </folder>
+  <file name="index.html" crc="89448964" seo="true" mt="1555735168386" redirect="true"/>
+  <file name="производство.html" crc="446342082" seo="true" mt="1555732684869" redirect="true"/>
+  <file name="продукция.html" crc="54410165" seo="true" mt="1555736891548" redirect="true"/>
+</manifest>
